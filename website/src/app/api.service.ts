@@ -6,7 +6,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class ApiService {
 
-  url = `https://3000-chocolate-louse-la6futtk.ws-eu04.gitpod.io/`;
+  url = `https://3000-tomato-cricket-knnrs8qp.ws-eu04.gitpod.io/`;
 
   constructor(private http: HttpClient) { }
 
